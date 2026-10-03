@@ -1,0 +1,13 @@
+{
+  "name": "agent-lanes",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A small open-source proof for parallel agent workspaces, evidence, comparison, and promotion on Cloudflare Artifacts.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": {"node": ">=22"},
+  "license": "MIT"
+}
